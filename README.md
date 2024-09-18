@@ -74,9 +74,15 @@ E os parâmetros ajustados são rejeitados nos testes estatísticos caso não cu
 
 Segundo Santos (2009), caso algum erro seja detectado e identificado, as observações são descartadas do processo e o vetor dos parâmetros calculados não é atualizado.
 
+# Fluxograma do ajustamento e verificação de outliers
+
+![Controle de Qualidade do Ajustamento ](https://github.com/user-attachments/assets/f60388fe-a58e-4583-9870-a15f3d4bb4f4)
 
 
-# REFERÊNCIAS
+
+
+# REFERÊNCIAS!
+
                    
 BAARDA, W. A Testing Procedure for Use in Geodetic Networks, New Series, vol. 2, n. 5, Delft, 1968.
 
