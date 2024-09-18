@@ -76,7 +76,7 @@ Segundo Santos (2009), caso algum erro seja detectado e identificado, as observa
 
 # Fluxograma do ajustamento e verificação de outliers
 
-![Controle de Qualidade do Ajustamento ](https://github.com/user-attachments/assets/f60388fe-a58e-4583-9870-a15f3d4bb4f4)
+![FLUXOGRAMA_Controle de Qualidade do Ajustamento_page-0001](https://github.com/user-attachments/assets/61a5cbd9-de2d-4a6a-9215-3b5a18fe86d4)
 
 
 
