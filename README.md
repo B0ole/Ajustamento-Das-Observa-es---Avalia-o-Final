@@ -8,9 +8,9 @@
 ## O primeiro passo, foi entender como seria feito o ajustamento do modelo matemático identificado. Utilizamos o método combinado sem injunções. Todo o passo a passo está descrito no arquivo jupyter notebook
 ## Os problemas de todos os alunos estão neste repositório.
 
-Controle de Qualidade do Ajustamento
+##Controle de Qualidade do Ajustamento
 
-Seminário em Grupo da turma de CA412 - Ajustamento de Observações II 2024.1
+#Seminário em Grupo da turma de CA412 - Ajustamento de Observações II 2024.1
 
 Docente:
 
@@ -26,7 +26,7 @@ RAFAEL MARTINS DA SILVA rafael.martinss@ufpe.br
 
 THIAGO GAMA DE LIMA thiago.gama@ufpe.br
 
-Introdução
+##Introdução
 
 Qualquer dado experimental pode carregar consigo um erro aleatório e este por sua vez é impossível de ser eliminado por conta da medida de precisão do instrumento e a forma que o método de medida foi utilizado. Por conta disso, para o aumento da qualidade dos dados, mede-se o maior número de observações para melhor ajustamento do que o mínimo necessário para a solução do problema. Com essa redundância no sistema matemático gerado ocorrerá inconsistência devido aos erros nos valores observados.
 
@@ -34,7 +34,7 @@ Assim assumimos que existe um erro aleatório em cada observação efetuada, par
 
 Ao longo dos anos foram desenvolvidas diversas técnicas para detecção e identificação de erros não aleatórios nas observações, tanto antes quanto após o ajustamento ter sido realizado. Serão trabalhadas aqui as técnicas Qui-Quadrado e data-snooping, proposto por Baarda (1968).
 
-Histório do método
+##Histório do método
 
 O método Qui-Quadrado, redescoberto por Karl Pearson no início do século XX, representou um grande avanço na análise estatística. Pearson buscava desenvolver ferramentas para analisar dados e testar hipóteses sobre distribuições de frequência. Em seu trabalho, ele investigou um critério de probabilidade em qualquer teoria de um sistema de erros observados e aplicá-lo à determinação da qualidade do ajuste no caso da frequência de corte (Pearson, 1900), demonstrando a versatilidade do método.
 
@@ -46,9 +46,9 @@ Essa abordagem demonstra a importância da detecção e correção de erros para
 
 Embora o próprio Baarda comente que a técnica não garante a identificação de todos os erros, especialmente se houver múltiplos erros simultâneos e a reavaliação das observações pode ser custosa em termos de tempo e recursos.
 
-Modelos Matemáticos e funcionais
+#Modelos Matemáticos e funcionais
 
-Qui-quadrado:
+###Qui-quadrado:
 
 ![image](https://github.com/user-attachments/assets/9c859db4-b0c5-4c8f-bbd9-62d44cb87909)
 
@@ -59,7 +59,7 @@ E os parâmetros ajustados são rejeitados nos testes estatísticos caso não cu
 ![image](https://github.com/user-attachments/assets/13a43d37-6455-4a0e-9007-e266a1f0f3a7)
 
 
-Data-snooping:
+###Data-snooping:
 
 ![image](https://github.com/user-attachments/assets/1524e787-721c-4c32-b1ac-8f51093b0a1c)
 
@@ -76,7 +76,8 @@ Data-snooping:
 
 Segundo Santos (2009), caso algum erro seja detectado e identificado, as observações são descartadas do processo e o vetor dos parâmetros calculados não é atualizado.
 
-REFERÊNCIAS
+#REFERÊNCIAS
+
 BAARDA, W. A Testing Procedure for Use in Geodetic Networks, New Series, vol. 2, n. 5, Delft, 1968.
 
 DALMOLIN, Q. Ajustamento por mínimos quadrados. Edição Revisada. Curitiba:Imprensa da UFPR, 2002.
