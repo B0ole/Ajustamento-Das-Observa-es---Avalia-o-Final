@@ -9,7 +9,9 @@
 ## Os problemas de todos os alunos estão neste repositório.
 
 Controle de Qualidade do Ajustamento
+
 Seminário em Grupo da turma de CA412 - Ajustamento de Observações II 2024.1
+
 Docente:
 
 ERISON ROSA DE OLIVEIRA BARROS erison.barros@ufpe.br
@@ -53,6 +55,7 @@ Qui-quadrado:
  
 Segundo Gemael (1994), é o qui-quadrado amostral, é a variância da observação de peso unitário a priori e é o grau de liberdade no ajustamento.
 E os parâmetros ajustados são rejeitados nos testes estatísticos caso não cumpra essa condição imposta.
+
 ![image](https://github.com/user-attachments/assets/13a43d37-6455-4a0e-9007-e266a1f0f3a7)
 
 
