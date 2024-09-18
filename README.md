@@ -76,6 +76,9 @@ E os parâmetros ajustados são rejeitados nos testes estatísticos caso não cu
 
 Segundo Santos (2009), caso algum erro seja detectado e identificado, as observações são descartadas do processo e o vetor dos parâmetros calculados não é atualizado.
 
+![image](https://github.com/user-attachments/assets/ab88c9ea-e9b0-49a5-b50f-d0a415ecc064) (MORETTIN,2010)
+
+
 #REFERÊNCIAS
 
 BAARDA, W. A Testing Procedure for Use in Geodetic Networks, New Series, vol. 2, n. 5, Delft, 1968.
@@ -89,6 +92,8 @@ GHILANI, C. D.; WOLF, P. R. Adjustment Computations: Spatial Data Analysis. 4° 
 KAVOURAS, M. On the Detection of Outliers and the Determination of Reliability in Geodetic Networks. Canadá: Fredericton. University of New Brunswick, Department of Surveying Engineering. Technical Report, n. 87, 1982
 
 KLEIN, Ivandro; MATSUOKA, Marcelo Tomio; SOUZA, Sergio Florêncio De. Teoria de confiabilidade generalizada para múltiplos outliers: apresentação, discussão e comparação com a teoria convencional. Boletim de Ciências Geodésicas, v. 17, p. 519-548, 2011.
+
+MORETTIN, Pedro Alberto; DE OLIVEIRA BUSSAB, Wilton. Estatística básica. São Paulo: Saraiva, 2010.
 
 PEARSON, Karl. X. On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, v. 50, n. 302, p. 157-175, 1900.
 
