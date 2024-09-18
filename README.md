@@ -51,7 +51,7 @@ Embora o próprio Baarda comente que a técnica não garante a identificação d
 ###Qui-quadrado:
 
 ![image](https://github.com/user-attachments/assets/9c859db4-b0c5-4c8f-bbd9-62d44cb87909)
-
+![image](https://github.com/user-attachments/assets/ab88c9ea-e9b0-49a5-b50f-d0a415ecc064) (MORETTIN,2010)
  
 Segundo Gemael (1994), é o qui-quadrado amostral, é a variância da observação de peso unitário a priori e é o grau de liberdade no ajustamento.
 E os parâmetros ajustados são rejeitados nos testes estatísticos caso não cumpra essa condição imposta.
@@ -76,7 +76,6 @@ E os parâmetros ajustados são rejeitados nos testes estatísticos caso não cu
 
 Segundo Santos (2009), caso algum erro seja detectado e identificado, as observações são descartadas do processo e o vetor dos parâmetros calculados não é atualizado.
 
-![image](https://github.com/user-attachments/assets/ab88c9ea-e9b0-49a5-b50f-d0a415ecc064) (MORETTIN,2010)
 
 
 #REFERÊNCIAS
