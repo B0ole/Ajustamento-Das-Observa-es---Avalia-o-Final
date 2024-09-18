@@ -1,32 +1,32 @@
-# Ajustamento das observações 2 ---> AVALIAÇÃO FINAL
+# Ajustamento das observações 2 $\longrightarrow$ AVALIAÇÃO FINAL
+# Código referente às provas de todos os discentes estão no **Branch Main** logo ao entrar na página.
 
-
-## Aqui é apresentado o código utilizado no seminário, apresentação no canva e o problema da prova.
+## Aqui é apresentado o código utilizado no seminário bem como a apresentação no canva e o problema da prova.
 [Canva](https://www.canva.com/design/DAGQwzlnkvs/IVAdWm3CzfjNWMuFhVwOrA/edit?utm_content=DAGQwzlnkvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## Primeiramente, identificamos o problema e iniciamos uma investigação aprofundada sobre o tema. A compreensão da complexidade inerente ao assunto demandou um extenso período de estudo e análise crítica, durante o qual consultamos uma variedade de artigos acadêmicos. Devido à natureza intrincada do tópico, foi essencial dedicar um tempo considerável à leitura e interpretação dos materiais consultados para obter um entendimento mais robusto e fundamentado.
+### Primeiramente, identificamos o problema e iniciamos uma investigação aprofundada sobre o tema. A compreensão da complexidade inerente ao assunto demandou um extenso período de estudo e análise crítica, durante o qual consultamos uma variedade de artigos acadêmicos. Devido à natureza intrincada do tópico, foi essencial dedicar um tempo considerável à leitura e interpretação dos materiais consultados para obter um entendimento mais robusto e fundamentado.
 ## O primeiro passo, foi entender como seria feito o ajustamento do modelo matemático identificado. Utilizamos o método combinado sem injunções. Todo o passo a passo está descrito no arquivo jupyter notebook
-## Os problemas de todos os alunos estão neste repositório .
 
-##Controle de Qualidade do Ajustamento
 
-#Seminário em Grupo da turma de CA412 - Ajustamento de Observações II 2024.1
+# Controle de Qualidade do Ajustamento
 
-Docente:
+## Seminário em Grupo da turma de CA412 - Ajustamento de Observações II 2024.1
 
-ERISON ROSA DE OLIVEIRA BARROS erison.barros@ufpe.br
+### Docente:
 
-Dicentes:
+**ERISON ROSA DE OLIVEIRA BARROS erison.barros@ufpe.br**
 
-JOAO IGOR MENDONÇA SIQUEIRA joao.igormendonca@ufpe.br
+### **Discentes:**
 
-MELQUIZEDEK LUIDSON NUNES DANTAS melquizedek.dantas@ufpe.br
+**JOAO IGOR MENDONÇA SIQUEIRA joao.igormendonca@ufpe.br**
 
-RAFAEL MARTINS DA SILVA rafael.martinss@ufpe.br
+**MELQUIZEDEK LUIDSON NUNES DANTAS melquizedek.dantas@ufpe.br**
 
-THIAGO GAMA DE LIMA thiago.gama@ufpe.br
+**RAFAEL MARTINS DA SILVA rafael.martinss@ufpe.br**
 
-##Introdução
+**THIAGO GAMA DE LIMA thiago.gama@ufpe.br**
+
+## Introdução
 
 Qualquer dado experimental pode carregar consigo um erro aleatório e este por sua vez é impossível de ser eliminado por conta da medida de precisão do instrumento e a forma que o método de medida foi utilizado. Por conta disso, para o aumento da qualidade dos dados, mede-se o maior número de observações para melhor ajustamento do que o mínimo necessário para a solução do problema. Com essa redundância no sistema matemático gerado ocorrerá inconsistência devido aos erros nos valores observados.
 
@@ -34,7 +34,7 @@ Assim assumimos que existe um erro aleatório em cada observação efetuada, par
 
 Ao longo dos anos foram desenvolvidas diversas técnicas para detecção e identificação de erros não aleatórios nas observações, tanto antes quanto após o ajustamento ter sido realizado. Serão trabalhadas aqui as técnicas Qui-Quadrado e data-snooping, proposto por Baarda (1968).
 
-##Histório do método
+## Historia do método
 
 O método Qui-Quadrado, redescoberto por Karl Pearson no início do século XX, representou um grande avanço na análise estatística. Pearson buscava desenvolver ferramentas para analisar dados e testar hipóteses sobre distribuições de frequência. Em seu trabalho, ele investigou um critério de probabilidade em qualquer teoria de um sistema de erros observados e aplicá-lo à determinação da qualidade do ajuste no caso da frequência de corte (Pearson, 1900), demonstrando a versatilidade do método.
 
@@ -46,19 +46,18 @@ Essa abordagem demonstra a importância da detecção e correção de erros para
 
 Embora o próprio Baarda comente que a técnica não garante a identificação de todos os erros, especialmente se houver múltiplos erros simultâneos e a reavaliação das observações pode ser custosa em termos de tempo e recursos.
 
-#Modelos Matemáticos e funcionais
+### Modelos Matemáticos e funcionais
 
-###Qui-quadrado:
+### Qui-quadrado:
 
 ![image](https://github.com/user-attachments/assets/9c859db4-b0c5-4c8f-bbd9-62d44cb87909)
  
-Segundo Gemael (1994), é o qui-quadrado amostral, é a variância da observação de peso unitário a priori e é o grau de liberdade no ajustamento.
+Segundo Gemael (1994), o qui-quadrado amostral é a variância da observação de peso unitário a priori e é o grau de liberdade no ajustamento.
 E os parâmetros ajustados são rejeitados nos testes estatísticos caso não cumpra essa condição imposta.
 
 ![image](https://github.com/user-attachments/assets/13a43d37-6455-4a0e-9007-e266a1f0f3a7)
-![image](https://github.com/user-attachments/assets/ab88c9ea-e9b0-49a5-b50f-d0a415ecc064) (MORETTIN,2010)
 
-###Data-snooping:
+### Data-snooping:
 
 ![image](https://github.com/user-attachments/assets/1524e787-721c-4c32-b1ac-8f51093b0a1c)
 
@@ -71,14 +70,14 @@ E os parâmetros ajustados são rejeitados nos testes estatísticos caso não cu
 
  ![image](https://github.com/user-attachments/assets/a826051d-d4a3-47a3-bf19-a264f329eed2)
 
- ![image](https://github.com/user-attachments/assets/bb5e9ae6-97d7-4684-8c86-59ea0db74dd6)é extraida da curva normal
+ ![image](https://github.com/user-attachments/assets/bb5e9ae6-97d7-4684-8c86-59ea0db74dd6) é extraida da curva normal(distribuição gaussiana)
 
 Segundo Santos (2009), caso algum erro seja detectado e identificado, as observações são descartadas do processo e o vetor dos parâmetros calculados não é atualizado.
 
 
 
-#REFERÊNCIAS
-
+# REFERÊNCIAS
+                   
 BAARDA, W. A Testing Procedure for Use in Geodetic Networks, New Series, vol. 2, n. 5, Delft, 1968.
 
 DALMOLIN, Q. Ajustamento por mínimos quadrados. Edição Revisada. Curitiba:Imprensa da UFPR, 2002.
