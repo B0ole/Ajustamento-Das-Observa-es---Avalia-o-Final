@@ -83,7 +83,7 @@ Segundo Santos (2009), caso algum erro seja detectado e identificado, as observa
 
 
 
-# REFERÊNCIAS!
+# REFERÊNCIAS
 
                    
 BAARDA, W. A Testing Procedure for Use in Geodetic Networks, New Series, vol. 2, n. 5, Delft, 1968.
