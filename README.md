@@ -1,4 +1,7 @@
-# Ajustamento das observações 2 $\longrightarrow$ AVALIAÇÃO FINAL
+# Ajustamento das observações 2 
+
+ ## AVALIAÇÃO FINAL
+ 
 # Código referente às provas de todos os discentes estão no **Branch Main** logo ao entrar na página.
 
 ## Aqui é apresentado o código utilizado no seminário bem como a apresentação no canva e o problema da prova.
