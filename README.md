@@ -103,3 +103,6 @@ MORETTIN, Pedro Alberto; DE OLIVEIRA BUSSAB, Wilton. Estatística básica. São 
 PEARSON, Karl. X. On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, v. 50, n. 302, p. 157-175, 1900.
 
 SANTOS, D. R. Apostila de Fotogrametria I. Curitiba, 2009. Setor de Ciências da Terra, Universidade Federal do Paraná.
+
+
+
