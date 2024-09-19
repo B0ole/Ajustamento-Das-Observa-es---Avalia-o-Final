@@ -5,7 +5,7 @@
 # Código referente às provas de todos os discentes estão no **Branch Main** logo ao entrar na página.
 
 ## Aqui é apresentado o código utilizado no seminário bem como a apresentação no canva e o problema da prova.
-[Canva](https://www.canva.com/design/DAGQwzlnkvs/IVAdWm3CzfjNWMuFhVwOrA/edit?utm_content=DAGQwzlnkvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+> [Canva](https://www.canva.com/design/DAGQwzlnkvs/IVAdWm3CzfjNWMuFhVwOrA/edit?utm_content=DAGQwzlnkvs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Primeiramente, identificamos o problema e iniciamos uma investigação aprofundada sobre o tema. A compreensão da complexidade inerente ao assunto demandou um extenso período de estudo e análise crítica, durante o qual consultamos uma variedade de artigos acadêmicos. Devido à natureza intrincada do tópico, foi essencial dedicar um tempo considerável à leitura e interpretação dos materiais consultados para obter um entendimento mais robusto e fundamentado.
 ## O primeiro passo, foi entender como seria feito o ajustamento do modelo matemático identificado. Utilizamos o método combinado sem injunções. Todo o passo a passo está descrito no arquivo jupyter notebook
