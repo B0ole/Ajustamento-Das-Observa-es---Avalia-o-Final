@@ -1,6 +1,6 @@
 # Ajustamento das observações II
 
- ## <center> AVALIAÇÃO FINAL <center>
+ ## <center> AVALIAÇÃO FINAL </center>
  
 # Código referente às provas de todos os discentes estão no **Branch Main** logo ao entrar na página.
 
